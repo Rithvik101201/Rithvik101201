@@ -2,11 +2,11 @@
 
 ## ✉️ Contact Me Here:
 
-<p >
-     <ul>
+<p align="center">
+     <ul type="disc">
          <li><a href="https://google.com" taget="_blank">Linkedin</a></ul></li>
      </ul>
-     <ul>
+     <ul type="disc">
          <li><a href="https://google.com" taget="_blank">Linkedin</a></ul></li>
      </ul>
 </p>
