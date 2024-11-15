@@ -1,4 +1,4 @@
-## Haloo! I'm Rithvik ✨
+![image](https://github.com/user-attachments/assets/71fb45b9-74fe-49e4-9814-eb31975e9dcd)## Haloo! I'm Rithvik ✨
 
 <h5><strong>Welcome to my GitHub world</strong></h5>
 
@@ -6,9 +6,10 @@
 
 <code><strong>Frontend Technologies</strong></code>
 
+
 <code><strong>Backend Technologies</strong></code>
 
-<code><strong>Databases</strong></code>
+<code><strong>Databases <img src="https://github.com/user-attachments/assets/29fd8821-1d06-422b-b24d-6dc6cb067e5f"></strong></code>
 
 <code><strong>Other Tools</strong></code>
 
