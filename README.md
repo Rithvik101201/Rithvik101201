@@ -18,14 +18,11 @@
 <h6><strong>JavaScript Essentials</strong></h6>
 <h6><strong>SQL For Data Science</strong></h6>
 
-## ✉️ Contact Me Here:
+## ✉️ Reach Me Here:
 
 <p align="center">
-     <ul type="disc">
-         <li><a href="https://google.com" taget="_blank">Linkedin</a></ul></li>
-     </ul>
-     <ul type="disc">
-         <li><a href="https://google.com" taget="_blank">Linkedin</a></ul></li>
+     <ul type="square">
+         <li><a href="https://in.linkedin.com/in/rithvik-pothana-168317254">Linkedin</a></ul></li>
      </ul>
 </p>
 
