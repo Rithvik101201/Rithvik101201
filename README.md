@@ -2,8 +2,9 @@
 
 <p>Welcome to my GitHub world</p>
 
-## FrontEnd Technologies:
-<CODE>Programming</CODE>
+## Skills
+
+<code>FrontEnd Technologies:</code>
 
 ## ✉️ Contact Me Here:
 
