@@ -9,10 +9,10 @@
 
 <code><strong>Backend Technologies</strong></code>
 
-<code><strong>Databases 
+<code><strong>Databases </strong></code>
 <img height="150px" width="150px" src="https://github.com/user-attachments/assets/29fd8821-1d06-422b-b24d-6dc6cb067e5f">
 <img height="150px" width="150px" src="https://github.com/user-attachments/assets/88a641e7-04b0-434b-a833-c542dd8c4b27">
-</strong></code>
+
 
 <code><strong>Other Tools</strong></code>
 
