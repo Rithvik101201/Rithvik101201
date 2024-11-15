@@ -5,15 +5,8 @@
 ## Skills
 
 <code><strong>Frontend Technologies</strong></code>
-
-
 <code><strong>Backend Technologies</strong></code>
-
-<code><strong>Databases </strong></code>
-<img height="100px" width="100px" src="https://github.com/user-attachments/assets/29fd8821-1d06-422b-b24d-6dc6cb067e5f">
-<img height="100px" width="100px" src="https://github.com/user-attachments/assets/88a641e7-04b0-434b-a833-c542dd8c4b27">
-
-
+<code><strong>Databases</strong></code>
 <code><strong>Other Tools</strong></code>
 
 ## Certifications
