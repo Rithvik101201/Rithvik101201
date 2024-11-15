@@ -14,7 +14,7 @@
 
 ## Certifications
 
-<h5><strong>Microsoft Azure Fundamentals</strong></h5>
+<h5><strong><big>Microsoft Azure Fundamentals</big></strong></h5>
 
 ## ✉️ Contact Me Here:
 
