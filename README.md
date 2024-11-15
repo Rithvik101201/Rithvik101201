@@ -1,4 +1,6 @@
-## Haloo! I'm Rithvik, a creative developer ✨
+## Haloo! I'm Rithvik ✨
+
+<p>Welcome to my GitHub world</p>
 
 ## ✉️ Contact Me Here:
 
