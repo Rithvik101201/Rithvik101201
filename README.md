@@ -5,6 +5,7 @@
 ## Skills
 
 <code><strong>Frontend Technologies</strong></code>
+
 <code><strong>Backend Technologies</strong></code>
 <code><strong>Databases</strong></code>
 <code><strong>Other Tools</strong></code>
