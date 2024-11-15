@@ -2,7 +2,7 @@
 
 ## ✉️ Contact Me Here:
 
-<p align="center">
+<p >
      <ul>
          <li><a href="https://google.com" taget="_blank">Linkedin</a></ul></li>
          <li><a href="https://google.com" taget="_blank">Linkedin</a></ul></li>
