@@ -1,4 +1,4 @@
-## Haloo!! I'm Rithvik, a creative developer.✨
+## Haloo! I'm Rithvik, a creative developer ✨
 
 ## ✉️ Contact Me Here:
 
