@@ -14,7 +14,7 @@
 
 ## Certifications
 
-<p class="rteBlock">&lt;details&gt;</p><p class="rteBlock">    &lt;summary&gt;Details&lt;/summary&gt;</p><p class="rteBlock">    Something small enough to escape casual notice.</p><p class="rteBlock">&lt;/details&gt;</p><p class="rteBlock">&lt;details open&gt;</p><p class="rteBlock">&lt;summary&gt;Item 2&lt;/summary&gt;</p><p class="rteBlock">  Something else. This one defaults to open!</p><p class="rteBlock">&lt;/details&gt;</p>
+<h5><strong>Microsoft Azure Fundamentals</strong></h5>
 
 ## ✉️ Contact Me Here:
 
