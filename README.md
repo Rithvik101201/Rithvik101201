@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-<!--
-**Rithvik101201/Rithvik101201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## ✉️ Contact Me Here:
 <p align="center">
   <a href="https://google.com" taget="_blank">
 </p>
+
+<!--
+**Rithvik101201/Rithvik101201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
