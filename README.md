@@ -22,7 +22,7 @@
 
 <p align="center">
      <ul type="square">
-         <li><a href="https://in.linkedin.com/in/rithvik-pothana-168317254">Linkedin</a></ul></li>
+         <li><a href="https://in.linkedin.com/in/rithvik-pothana-168317254" target="_blank">Linkedin</a></ul></li>
      </ul>
 </p>
 
