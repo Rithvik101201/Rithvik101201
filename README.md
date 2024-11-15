@@ -1,4 +1,4 @@
-## Haloo!! I'm a Creative Person with coding✨
+## Haloo!! I'm Rithvik, a creative person.✨
 
 ## ✉️ Contact Me Here:
 
