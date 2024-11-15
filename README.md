@@ -2,6 +2,8 @@
 
 ## ✉️ Contact Me Here:
 
+<p>
+    
     <ul>
         <li>
             <a href="https://google.com" taget="_blank">Linkedin</a></ul>
@@ -10,6 +12,7 @@
             <a href="https://google.com" taget="_blank">Linkedin</a></ul>
        </li>
    </ul>
+</p>
 
 
 
