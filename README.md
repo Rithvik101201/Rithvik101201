@@ -4,7 +4,7 @@
 
 ## Skills
 
-<code>FrontEnd Technologies:</code>
+<code><strong>FrontEnd Technologies:</strong></code>
 
 ## ✉️ Contact Me Here:
 
