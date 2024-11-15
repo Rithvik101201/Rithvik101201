@@ -10,6 +10,8 @@
 
 <code><strong>Databases</strong></code>
 
+<code><strong>Other Tools</strong></code>
+
 ## ✉️ Contact Me Here:
 
 <p align="center">
