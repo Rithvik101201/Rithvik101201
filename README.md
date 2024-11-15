@@ -9,7 +9,8 @@
 
 <code><strong>Backend Technologies</strong></code>
 
-<code><strong>Databases <img height="auto" width="auto" src="https://github.com/user-attachments/assets/29fd8821-1d06-422b-b24d-6dc6cb067e5f"></strong></code>
+<code><strong>Databases <img height="auto" width="auto" src="https://github.com/user-attachments/assets/29fd8821-1d06-422b-b24d-6dc6cb067e5f">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/mongodb.svg"></strong></code>
 
 <code><strong>Other Tools</strong></code>
 
