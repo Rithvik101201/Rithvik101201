@@ -1,8 +1,10 @@
 ## Haloo!! I'm a Creative Person with coding✨
 
 ## ✉️ Contact Me Here:
-<p >
+<p>
+  <li>
   <a href="https://google.com" taget="_blank">Linkedin</a>
+  </li>
 </p>
 
 <!--
