@@ -2,7 +2,7 @@
 
 <h5><strong>Welcome to my GitHub world</strong></h5>
 
-## Skills
+## My Skills
 
 <code><strong>Frontend Technologies</strong></code>
 
