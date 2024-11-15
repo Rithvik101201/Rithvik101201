@@ -2,6 +2,11 @@
 
 <p>Welcome to my GitHub world</p>
 
+## FrontEnd Technologies:
+<h1>HTML</h1>
+<h1>CSS</h1>
+<h1>JAVASCRIPT</h1>
+
 ## ✉️ Contact Me Here:
 
 <p align="center">
@@ -12,10 +17,6 @@
          <li><a href="https://google.com" taget="_blank">Linkedin</a></ul></li>
      </ul>
 </p>
-
-
-
-
 
 
 <!--
