@@ -1,19 +1,22 @@
 ## Haloo!! I'm a Creative Person with coding✨
 
 ## ✉️ Contact Me Here:
-<p>
-    <ul>
-      <li>
-      <a href="https://google.com" taget="_blank">Linkedin</a>
-      </li>
-    </ul>
-    <ul>
-      <li>
-      <a href="https://google.com" taget="_blank">Linkedin</a>
-      </li>
-    </ul>
- 
-</p>
+
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <ul><a href="https://google.com" taget="_blank">Linkedin</a></ul>
+    </body>
+</html>
+
+
+
+
+
+
+
+
 
 <!--
 **Rithvik101201/Rithvik101201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
