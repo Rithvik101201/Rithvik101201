@@ -4,7 +4,11 @@
 
 ## Skills
 
-<code><strong>FrontEnd Technologies:</strong></code>
+<code><strong>Frontend Technologies</strong></code>
+
+<code><strong>Backend Technologies</strong></code>
+
+<code><strong>Databases</strong></code>
 
 ## ✉️ Contact Me Here:
 
