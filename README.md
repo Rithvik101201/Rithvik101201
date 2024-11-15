@@ -3,7 +3,9 @@
 ## ✉️ Contact Me Here:
 <p>
   <li>
-    <ul><a href="https://google.com" taget="_blank">Linkedin</a></ul>
+    <ul>
+      <a href="https://google.com" taget="_blank">Linkedin</a>
+    </ul>
   </li>
   <li>
     <ul><a href="https://google.com" taget="_blank">Linkedin</a></ul>
