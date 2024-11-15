@@ -9,7 +9,7 @@
 
 <code><strong>Backend Technologies</strong></code>
 
-<code><strong>Databases <img height="auto" src="https://github.com/user-attachments/assets/29fd8821-1d06-422b-b24d-6dc6cb067e5f"></strong></code>
+<code><strong>Databases <img height="auto" width="auto" src="https://github.com/user-attachments/assets/29fd8821-1d06-422b-b24d-6dc6cb067e5f"></strong></code>
 
 <code><strong>Other Tools</strong></code>
 
