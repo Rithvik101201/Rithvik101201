@@ -1,7 +1,7 @@
-## Halloo✨
+## Haloo!! I'm a Creative Person with coding✨
 
 ## ✉️ Contact Me Here:
-<p align="center">
+<p >
   <a href="https://google.com" taget="_blank">Linkedin</a>
 </p>
 
