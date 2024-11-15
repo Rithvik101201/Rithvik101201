@@ -1,6 +1,6 @@
 ## Haloo! I'm Rithvik ✨
 
-<h5>Welcome to my GitHub world</h5>
+<h5><mark>Welcome to my GitHub world</mark></h5>
 
 ## Skills
 
