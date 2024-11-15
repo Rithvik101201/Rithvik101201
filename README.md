@@ -15,6 +15,8 @@
 ## Certifications
 
 <h6><strong>Microsoft Azure Fundamentals</strong></h6>
+<h6><strong>JavaScript Essentials</strong></h6>
+<h6><strong>SQL For Data Science</strong></h6>
 
 ## ✉️ Contact Me Here:
 
