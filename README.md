@@ -2,14 +2,10 @@
 
 ## ✉️ Contact Me Here:
 <p>
-  <span>
   <li>
-  <a href="https://google.com" taget="_blank">Linkedin</a>
+    <ul><a href="https://google.com" taget="_blank">Linkedin</a></ul>
+    <ul><a href="https://google.com" taget="_blank">Linkedin</a></ul>
   </li>
-  <li>
-  <a href="https://google.com" taget="_blank">Linkedin</a>
-  </li>
-  </span>
 </p>
 
 <!--
